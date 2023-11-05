@@ -6,3 +6,7 @@ The project progressed through the following steps:
 4. Feature Encoding & Selection: In Step 3, encoded categorical data and compared various feature selection techniques.
 5. Data Split and Balancing: Work in progress (Step 4).
 6. Prediction Model Building: Work in progress (future Step 5).
+Also included in this repository is:
+A. The cleaned data
+B. The cleaned data with outliers adjusted
+C. The EDA report generated at the end of Step 1
