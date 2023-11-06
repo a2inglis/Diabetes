@@ -4,8 +4,8 @@ The project progressed through the following steps:
 2. Data Preparation: In the Step 1 python file, prepared and cleaned the data and performed an exploratory data analysis.
 3. Outlier Handling: In Step 2, further explored the data and addressed outliers based on two criteria: beyond the upper interquartile range or comprising approximately 1% of the data.
 4. Feature Encoding & Selection: In Step 3, encoded categorical data and compared various feature selection techniques.
-5. Data Split and Balancing: Work in progress (Step 4).
-6. Prediction Model Building: Work in progress (future Step 5).
+5. Data Split and Balancing: Work_In_Progress (Step 4).
+6. Prediction Model Building: Work_In_Progress (future Step 5).
 Also included in this repository is:
 A. The cleaned data
 B. The cleaned data with outliers adjusted
