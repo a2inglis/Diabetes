@@ -3,10 +3,6 @@ The project progressed through the following steps:
 1. Literature Review: Conducted a literature review of existing research using the same dataset.
 2. Data Preparation: In the Step 1 python file, prepared and cleaned the data and performed an exploratory data analysis.
 3. Outlier Handling: In Step 2, further explored the data and addressed outliers based on two criteria: beyond the upper interquartile range or comprising approximately 1% of the data.
-4. Feature Encoding & Selection: In Step 3, encoded categorical data and compared various feature selection techniques.
-5. Data Split and Balancing: Work_In_Progress (Step 4).
-6. Prediction Model Building: Work_In_Progress (future Step 5).
-Also included in this repository is:
-A. The cleaned data
-B. The cleaned data with outliers adjusted
-C. The EDA report generated at the end of Step 1
+4. Feature Encoding & Selection: In Step 3, scaled, encoded categorical data and compared various feature selection techniques.
+5. Model Building & Evaluation: In Step 4, four models were compared - KNN, decision tree, random forest and naive bayes.  They were then evaluated with recall, precision, accuracy and F1.
+Additionally, this repository contains all the data transferred among different notebooks during the various stages.
